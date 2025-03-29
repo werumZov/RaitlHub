@@ -1,2 +1,8 @@
 # RaitlHub
-# RaitlHub  *script for dead rails*   *IN DEV!!!!!!!!!!*   telegram: @TwoHubs
+
+*script for dead rails*   
+
+*IN DEV!!!!!!!!!!*  
+
+
+telegram: @TwoHubs
